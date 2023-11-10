@@ -2,8 +2,8 @@
 ---
 #### Sou Desenvolvedor Full Stack, Baixista & Cubomaniaco
 - 🌱 Estou aprendendo sobre Docker e AWS
-- - 💬 Me pergunte sobre NodeJs, ReactJs, SQL e noSQL
-- - 📫 Me contate em: [raynan.araujo@gmail.com](mailto:raynan.araujo@gmail.com)
+- 💬 Me pergunte sobre NodeJs, ReactJs, SQL e noSQL
+- 📫 Me contate em: [raynan.araujo@gmail.com](mailto:raynan.araujo@gmail.com)
 <!--
 **RayAra2004/RayAra2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
