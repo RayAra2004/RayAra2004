@@ -1,10 +1,10 @@
 ### Olá 👋, eu sou Raynan Araujo
----
+<hr/>
 #### Sou Desenvolvedor Full Stack, Baixista & Cubomaniaco
 - 🌱 Estou aprendendo sobre Docker e AWS
 - 💬 Me pergunte sobre NodeJs, ReactJs, SQL e noSQL
 - 📫 Me contate em: [raynan.araujo@gmail.com](mailto:raynan.araujo@gmail.com)
-
+<h2>Stacks que trabalho atualmente</h2>
 <table>
   <tbody>
     <tr>
@@ -40,15 +40,6 @@
         />
         <img width="12" /> Express
       </td>
-      <td>
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-          alt="nestjs"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> NestJS
-      </td>
     </tr>
     <tr>
       <td>
@@ -58,14 +49,6 @@
           alt="react logo"
         />
         <img width="12" /> React
-      </td>
-      <td>
-        <img
-          src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
-          height="40"
-          alt="tailwindcss logo"
-        />
-        <img width="12" /> Tailwindcss
       </td>
       <td>
         <img
@@ -89,7 +72,7 @@
           height="40"
           alt="docker logo"
         />
-        <img width="12" /> Docker
+        <img width="12" /> Docker - aprendendo
       </td>
     </tr>
     <tr>
