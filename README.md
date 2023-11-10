@@ -1,6 +1,7 @@
 ### Olá 👋, eu sou Raynan Araujo
 ---
 #### Sou Desenvolvedor Full Stack, Baixista & Cubomaniaco
+- 🌱 `Estou aprendendo sobre Docker e AWS`
 <!--
 **RayAra2004/RayAra2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
