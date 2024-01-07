@@ -97,12 +97,13 @@
         <img width="12" /> Postgresql
       </td>
       <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
-          height="40"
-          alt="redis logo"
-        />
-        <img width="12" /> Redis
+            <img
+              src="https://www.php.net/images/logos/new-php-logo.svg"
+              alt="php"
+              width="40"
+              height="40"
+            />
+            <img width="12" /> PHP
       </td>
       <td>
         <img
